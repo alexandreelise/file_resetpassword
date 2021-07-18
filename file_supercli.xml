@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Super Cli Extension File</name>
+		<description>Super Cli Extension File</description>
+		<element>file_supercli</element>
+		<type>file</type>
+		<version>2.0.0</version>
+		<client>site</client>
+		<infourl title="Super Cli Extension File">https://github.com/joomla-extensions/weblinks/releases/tag/2.0.0</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://alexandre-elise.fr/downloads/file_supercli_202012151953.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/alexandreelise/file_supercli/archive/refs/tags/v2.0.0.zip</downloadsource>
+		</downloads>
+		<maintainer>Alexandre ELISÉ</maintainer>
+		<maintainerurl>https://alexandre-elise.fr</maintainerurl>
+		<targetplatform name="joomla" version="3.[789]" />
+		<php_minimum>7.4</php_minimum>
+	</update>
+</updates>
