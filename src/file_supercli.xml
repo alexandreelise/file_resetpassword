@@ -15,4 +15,8 @@
             <file>supercli.php</file>
         </files>
     </fileset>
+    <updateservers>
+		<!-- Note: No spaces or linebreaks allowed between the server tags -->
+		<server type="extension" name="SuperCli Update Site">https://raw.githubusercontent.com/alexandreelise/file_supercli/main/manifest.xml</server>
+	</updateservers>
 </extension>
